@@ -199,7 +199,7 @@ export default BookTrainerPage;
 
 // const [selectedLocation, setSelectedLocation] = useState(null);
 // const { isLoaded } = useJsApiLoader({
-//   googleMapsApiKey: "AIzaSyDtBjmLZ2bJCuLdlAR4n_h0EvXZ1LPTjJc",
+//   googleMapsApiKey: "Your_API-KEy",
 // });
 
 // const handleMapClick = (event) => {
